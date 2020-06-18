@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hello and welcome to my Blog
 
-I'm glad you are here. I plan to talk about ...
+On this blog I will write about the world through _my_ eyes 
